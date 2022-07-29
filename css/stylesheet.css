@@ -1,0 +1,38 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: burlywood;
+}
+
+h1 {
+  font-size: 250%;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 220%;
+  margin: auto;
+  text-align: center;
+}
+
+h3 {
+  font-size: 190%;
+  margin: auto;
+}
+
+.image {
+  float: left;
+  margin: 1em 2em;
+  outline: 3px solid brown;
+}
+
+.step {
+  clear: left;
+}
+
+.step_text {
+  padding: 5% 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 130%;
+  margin: auto;
+}
